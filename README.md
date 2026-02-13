@@ -98,7 +98,7 @@ ArtShare/
 
 The application features a complete flow from authentication to content creation. Below is a preview of the user interface:
 
-<img src="./Document/preview.png" width="100%">
+<img src="./Documents/preview.png" width="100%">
 
 ### 📊 Detailed Presentation
 For a complete visual walkthrough, user flow diagrams, and design decisions, please check the project presentation:
