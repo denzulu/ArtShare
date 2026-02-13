@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>328517810060-msvtu8h3ut7n7ue0l44bvcmp8u20uhrh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.328517810060-msvtu8h3ut7n7ue0l44bvcmp8u20uhrh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiRDZ_WRv4HWdrt2pKKpu-NbWDzQlUDs0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>328517810060</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>hdu4062.rit.ArtShare</string>
+	<key>PROJECT_ID</key>
+	<string>artshare-hdu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>artshare-hdu.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:328517810060:ios:9311dad21ea0bcf37ec8a9</string>
+</dict>
+</plist>
