@@ -94,12 +94,15 @@ ArtShare/
 
 ---
 
-## Screenshots
+## App Overview & Visuals
 
-| Login & Sign Up | Gallery Feed | Upload Artwork | User Profile |
-|:---:|:---:|:---:|:---:|
-| | | | |
-| *(Placeholder)* | *(Placeholder)* | *(Placeholder)* | *(Placeholder)* |
+The application features a complete flow from authentication to content creation. Below is a preview of the user interface:
+
+<img src="./Document/preview.png" width="100%">
+
+### 📊 Detailed Presentation
+For a complete visual walkthrough, user flow diagrams, and design decisions, please check the project presentation:
+👉 **[Download ArtShare Presentation](./Documents/ArtShare_Presentation.pptx)**
 
 ---
 
